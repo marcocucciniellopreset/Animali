@@ -1,5 +1,5 @@
 # Animali
-<iframe src="https://editor.p5js.org/marcocucciniellopreset/full/X5bfHW2yY"></iframe>
+<iframe src="https://editor.p5js.org/marcocucciniellopreset/full/X5bfHW2yY" style = "height 100%; width 100%; border none;"></iframe>
 https://editor.p5js.org/marcocucciniellopreset/sketches/X5bfHW2yY
 
 Animals is the title of a multimedia project whose content is based on the importance of biodiversity. About the need to be so small, ugly or strange but infinitely **different**. Any biological variability of genes, species, ecological niches and ecosystems with the genetic resources necessary to be determinant in a single species. The species described by science are about 1,750,000, while the value of those estimated fluctuates on much larger numbers. Extinction, i.e. the disappearance of a species, is the main threat to biodiversity.
